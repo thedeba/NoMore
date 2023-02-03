@@ -1,0 +1,33 @@
+html {
+    background-color: rgb(87, 85, 85);
+    font-family: 'Courier New', Courier;
+}
+body{
+    color: white;
+}
+.No_More {
+    margin-left: -40px;
+    top: -30px;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    width: 100%;
+}
+
+#No_More {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+#top_text{
+    margin-top: -30px;
+    text-align: center;
+    font-size: 8px;
+}
+#welcome {
+    margin-top: 90px;
+    font-size: larger;
+    text-align: center;
+}
